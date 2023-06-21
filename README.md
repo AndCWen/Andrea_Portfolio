@@ -5,7 +5,7 @@ Andrea's Professional Portfolio
 - Utilized Python to create a wordcloud from Nirvana lyrics
 - Split the data into 2 separate wordclouds to identify any theme shifts from the 80s to the 90s
 
-![NirvanaWordcloud](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/45a38d04-d79e-4bf1-b023-860ebe85c31c)
+![NirvanaWordcloud](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/a702725a-9b4b-4a3f-a532-fafd8a106e63)
 
 
 ## Project 2: [Sample Projects From Data Science Certification](https://github.com/AndCWen/Certification_Projects)
