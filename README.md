@@ -24,7 +24,7 @@ Andrea's Professional Portfolio
 ![NirvanaWordcloud](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/a702725a-9b4b-4a3f-a532-fafd8a106e63)
 
 
-## POthers: [Sample Projects From Data Science Certification](https://github.com/AndCWen/Certification_Projects)
+## Others: [Sample Projects From Data Science Certification](https://github.com/AndCWen/Certification_Projects)
 - [SQL Lab](https://github.com/AndCWen/Certification_Projects/blob/main/SQL_Lab.ipynb) - Answering questions using Chicago crime, socioeconomic indicators, and public school data
 
 
