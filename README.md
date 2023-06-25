@@ -8,7 +8,16 @@ Andrea's Professional Portfolio
 ![Intensity_Calorie_Burn](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/8709dd67-8d12-475a-8f75-cdcf91645f1a)
 
 
-## Project 2: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
+## Project 2: [Stock Analysis](https://github.com/AndCWen/Stock_Data))
+- Utilized yfinance and webscrapping to pull data on Cocacola and Tesla 
+- Created visualizations to guide analysis around company financial performance over time
+
+![KO_Price](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/dd0105b9-6a94-4d08-88cd-852778c4473d)
+
+![Tesla_Shares](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/0f67d71f-7f96-42ed-aa3a-e7e9606c6716)
+
+
+## Project 3: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
 - Utilized Python to create a wordcloud from Nirvana lyrics
 - Split the data into 2 separate wordclouds to identify any theme shifts from the 80s to the 90s
 
