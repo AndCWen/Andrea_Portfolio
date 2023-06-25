@@ -24,8 +24,7 @@ Andrea's Professional Portfolio
 ![NirvanaWordcloud](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/a702725a-9b4b-4a3f-a532-fafd8a106e63)
 
 
-## Project 3: [Sample Projects From Data Science Certification](https://github.com/AndCWen/Certification_Projects)
-- [Web Scraping Python Project](https://github.com/AndCWen/Certification_Projects/blob/main/Web_Scraping.ipynb) - Extract stock data using yfinance and creating visuals 
+## POthers: [Sample Projects From Data Science Certification](https://github.com/AndCWen/Certification_Projects)
 - [SQL Lab](https://github.com/AndCWen/Certification_Projects/blob/main/SQL_Lab.ipynb) - Answering questions using Chicago crime, socioeconomic indicators, and public school data
 
 
