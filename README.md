@@ -9,7 +9,7 @@ Andrea's Professional Portfolio
 
 
 ## Project 2: [Stock Analysis](https://github.com/AndCWen/Stock_Data))
-- Utilized yfinance and webscrapping to pull data on Cocacola and Tesla 
+- Utilized yfinance and webscrapping to pull data on Coca Cola and Tesla 
 - Created visualizations to guide analysis around company financial performance over time
 
 ![KO_Price](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/dd0105b9-6a94-4d08-88cd-852778c4473d)
