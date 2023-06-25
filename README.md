@@ -8,7 +8,7 @@ Andrea's Professional Portfolio
 ![Intensity_Calorie_Burn](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/8709dd67-8d12-475a-8f75-cdcf91645f1a)
 
 
-## Project 2: [Stock Analysis](https://github.com/AndCWen/Stock_Data))
+## Project 2: [Stock Analysis](https://github.com/AndCWen/Stock_Data)
 - Utilized yfinance and webscrapping to pull data on Coca Cola and Tesla 
 - Created visualizations to guide analysis around company financial performance over time
 
