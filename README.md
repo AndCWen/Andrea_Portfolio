@@ -16,8 +16,12 @@ Andrea's Professional Portfolio
 
 ![Tesla_Shares](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/0f67d71f-7f96-42ed-aa3a-e7e9606c6716)
 
+## Project 3: [House Data Analysis and Model Development](https://github.com/AndCWen/House-Data-Analysis)
+- Explored data to search for correlation between variables.
+- Created linear regression models to predict house prices based off variables in the dataset
+  
 
-## Project 3: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
+## Project 4: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
 - Utilized Python to create a wordcloud from Nirvana lyrics
 - Split the data into 2 separate wordclouds to identify any theme shifts from the 80s to the 90s
 
@@ -26,5 +30,6 @@ Andrea's Professional Portfolio
 
 ## Others: [Sample Projects From Data Science Certification](https://github.com/AndCWen/Certification_Projects)
 - [SQL Lab](https://github.com/AndCWen/Certification_Projects/blob/main/SQL_Lab.ipynb) - Answering questions using Chicago crime, socioeconomic indicators, and public school data
+
 
 
