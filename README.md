@@ -1,14 +1,21 @@
 Andrea_Portfolio
 Andrea's Professional Portfolio
 
-## Project 1: [BellaBeat Health Tracker Case Study](https://github.com/AndCWen/BellaBeat-Case-Study)
+## Project 1: [Rocket Launch Capstone Project - IBM Data Science Professional Certificate](https://github.com/AndCWen/Data_Science_Capstone/tree/main)
+- Utilized Python to collect, wrangle, and analyze data to provide the fictitional company "SpaceY" insights on SpaceX's Falcon9 rocket launches.
+- Used Machine Learning techniques to predict whether a rocket landing will be successful or not to help "SpaceY" develop a rocket with a high landing success rate.
+
+![image](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/30ca899c-3f59-4a22-bfab-d1f2df0c96f5)
+
+
+## Project 2: [BellaBeat Health Tracker Case Study](https://github.com/AndCWen/BellaBeat-Case-Study)
 - Utilized R to analyze wearable health tracker data
 - Came up with 3 health tracker feature ideas based off health tracker data
 
 ![Intensity_Calorie_Burn](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/8709dd67-8d12-475a-8f75-cdcf91645f1a)
 
 
-## Project 2: [Stock Analysis](https://github.com/AndCWen/Stock_Data)
+## Project 3: [Stock Analysis](https://github.com/AndCWen/Stock_Data)
 - Utilized yfinance and webscrapping to pull data on Coca Cola and Tesla 
 - Created visualizations to guide analysis around company financial performance over time
 
@@ -16,12 +23,12 @@ Andrea's Professional Portfolio
 
 ![Tesla_Shares](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/0f67d71f-7f96-42ed-aa3a-e7e9606c6716)
 
-## Project 3: [House Data Analysis and Model Development](https://github.com/AndCWen/House-Data-Analysis)
+## Project 4: [House Data Analysis and Model Development](https://github.com/AndCWen/House-Data-Analysis)
 - Explored data to search for correlation between variables.
 - Created linear regression models to predict house prices based off variables in the dataset
   
 
-## Project 4: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
+## Project 5: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
 - Utilized Python to create a wordcloud from Nirvana lyrics
 - Split the data into 2 separate wordclouds to identify any theme shifts from the 80s to the 90s
 
