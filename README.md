@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="/images/AndreaWLogo.png" alt="AndreaW Logo">
+  <img src="/images/AndreaWLogo.png">
 </div>
 
 
