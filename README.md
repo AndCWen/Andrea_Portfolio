@@ -41,8 +41,7 @@ optimizing efficiency, and enhancing the team's success rate in prospect engagem
 - Utilized Python to collect, wrangle, and analyze data to provide the fictitious company "SpaceY" insights on SpaceX's Falcon9 rocket launches.
 - Used Machine Learning techniques to predict whether a rocket landing will be successful or not to help "SpaceY" develop a rocket with a high landing success rate.
 
-[<img src="/images/Matrix.png" alt="Decision Matrix" width="600">](https://github.com/AndCWen/Data_Science_Capstone/tree/main)
-
+<img src="/images/Matrix.png" alt="Decision Matrix" width="600">
 ---
 
 ## Project 2: 
