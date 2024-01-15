@@ -41,7 +41,11 @@ optimizing efficiency, and enhancing the team's success rate in prospect engagem
 - Utilized Python to collect, wrangle, and analyze data to provide the fictitious company "SpaceY" insights on SpaceX's Falcon9 rocket launches.
 - Used Machine Learning techniques to predict whether a rocket landing will be successful or not to help "SpaceY" develop a rocket with a high landing success rate.
 
-<img src="/images/Matrix.png" alt="Decision Matrix" width="600">
+<a href="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/eabd44cd-5218-46ca-a610-dbb68df502df">
+  <img src="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/eabd44cd-5218-46ca-a610-dbb68df502df" alt="image" width="600" style="border-radius: 10px;">
+</a>
+
+
 ---
 
 ## Project 2: 
@@ -49,18 +53,26 @@ optimizing efficiency, and enhancing the team's success rate in prospect engagem
 - Utilized R to analyze wearable health tracker data
 - Came up with 3 health tracker feature ideas based off health tracker data
 
-![Intensity_Calorie_Burn](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/8709dd67-8d12-475a-8f75-cdcf91645f1a)
+<a href="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/8709dd67-8d12-475a-8f75-cdcf91645f1a">
+  <img src="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/8709dd67-8d12-475a-8f75-cdcf91645f1a" alt="image" width="600" style="border-radius: 10px;">
+</a>
+
+
 
 ---
 
-## Project 3: 
+## Project 3
 ### [Stock Analysis](https://github.com/AndCWen/Stock_Data)
 - Utilized yfinance and webscrapping to pull data on Coca Cola and Tesla 
 - Created visualizations to guide analysis around company financial performance over time
 
-![KO_Price](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/dd0105b9-6a94-4d08-88cd-852778c4473d)
+<a href="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/dd0105b9-6a94-4d08-88cd-852778c4473d">
+  <img src="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/dd0105b9-6a94-4d08-88cd-852778c4473d" alt="image" width="600" style="border-radius: 10px;">
+</a>
 
-![Tesla_Shares](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/0f67d71f-7f96-42ed-aa3a-e7e9606c6716)
+<a href ="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/0f67d71f-7f96-42ed-aa3a-e7e9606c6716">
+  <img src="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/0f67d71f-7f96-42ed-aa3a-e7e9606c6716" alt="image" width="600" style="border-radius: 10px;">
+</a>
 
 ---
 
@@ -83,7 +95,10 @@ optimizing efficiency, and enhancing the team's success rate in prospect engagem
 - Utilized Python to create a wordcloud from Nirvana lyrics
 - Split the data into 2 separate wordclouds to identify any theme shifts from the 80s to the 90s
 
-![NirvanaWordcloud](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/a702725a-9b4b-4a3f-a532-fafd8a106e63)
+<a href ="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/a702725a-9b4b-4a3f-a532-fafd8a106e63">
+  <img src="https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/a702725a-9b4b-4a3f-a532-fafd8a106e63" alt="image" width="600" style="border-radius: 10px;">
+</a>
+
 
 ---
 
