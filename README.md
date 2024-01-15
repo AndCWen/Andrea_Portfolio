@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+  <img src="/images/AndreaWLogo.png" alt="AndreaW Logo">
+</div>
+
+
 # Data Analysis / / Marketing Operations
 
 <b> Technical Skills : SQL, Python, R </b>
