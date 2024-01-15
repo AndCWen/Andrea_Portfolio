@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analysis / / Marketing Operations
 
 <b> Technical Skills : SQL, Python, R </b>
 
@@ -22,6 +22,9 @@ optimizing efficiency, and enhancing the team's success rate in prospect engagem
 
 <b> Data Analyst @ Trusted Media Brands </b> (Oct 2018 - Sept 2020)
 * Streamlined data delivery to the Canadian team, providing simplified and actionable insights into the international audience, resulting in enhanced campaign effectiveness and improved targeting strategies.
+
+----
+
 
 
 # Projects:
