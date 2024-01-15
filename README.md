@@ -23,12 +23,16 @@ Andrea's Professional Portfolio
 
 ![Tesla_Shares](https://github.com/AndCWen/Andrea_Portfolio/assets/132102517/0f67d71f-7f96-42ed-aa3a-e7e9606c6716)
 
-## Project 4: [House Data Analysis and Model Development](https://github.com/AndCWen/House-Data-Analysis)
+## Project 4: [Predicting Sales Revenue With Linear Regression](https://github.com/AndCWen/Sales_Revenue_Prediction_With_ML)
+- Using dummy data, created a ML model to predict sales revenue for future months based on past monthly sales data.
+- Used linear regression model to forecast sales revenue for an upcoming fiscal quarter.
+
+## Project 5: [House Data Analysis and Model Development](https://github.com/AndCWen/House-Data-Analysis)
 - Explored data to search for correlation between variables.
 - Created linear regression models to predict house prices based off variables in the dataset
   
 
-## Project 5: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
+## Project 6: [Wordcloud Using Nirvana Lyrics](https://github.com/AndCWen/WordCloud/blob/main/Nirvana_WordCloud.ipynb)
 - Utilized Python to create a wordcloud from Nirvana lyrics
 - Split the data into 2 separate wordclouds to identify any theme shifts from the 80s to the 90s
 
