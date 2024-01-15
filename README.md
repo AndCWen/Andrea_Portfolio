@@ -1,6 +1,3 @@
-<div style="text-align: center;">
-  <img src="/images/AndreaWLogo.png">
-</div>
 
 
 # Data Analysis / / Marketing Operations
