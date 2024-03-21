@@ -12,6 +12,7 @@
 
 # Experience
 <b> Senior Business Intelligence Analyst @ DoiT International </b> (Jan 2024 - Current)
+
 <b> Marketing Operations Analyst @ DoiT International </b> (Mar 2022 - Jan 2024)
 *  Spearheaded the development of a cutting-edge customer risk profile/model, leveraging diverse variables and
 customer characteristics, resulting in a predictive tool that accurately forecasted the likelihood of customer churn.
