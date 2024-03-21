@@ -1,6 +1,6 @@
 
 
-# Data Analysis / / Marketing Operations
+# Data Analysis / / Business Intelligence
 
 <b> Technical Skills : SQL, Python, R </b>
 
@@ -11,7 +11,8 @@
 * Data Science Professional - IBM Professional Certificate (Dec 2023)
 
 # Experience
-<b> Marketing Operations Analyst @ DoiT International </b> (Mar 2022 - Current)
+<b> Senior Business Intelligence Analyst @ DoiT International </b> (Jan 2024 - Current)
+<b> Marketing Operations Analyst @ DoiT International </b> (Mar 2022 - Jan 2024)
 *  Spearheaded the development of a cutting-edge customer risk profile/model, leveraging diverse variables and
 customer characteristics, resulting in a predictive tool that accurately forecasted the likelihood of customer churn.
 * Evaluated customer data and sales deal data to establish an ideal customer profile for the sales team for more targeted sales efforts. Created engaging infographics to communicate the findings to the wider sales organization.
